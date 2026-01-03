@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "0.0000%",
+  "base_artist": "7co",
+  "createdAt": "2026-01-03T17:37:57.508717Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "0.0000%",
+      "artist": "7co",
+      "has_synced": false,
+      "path": "select/pl_01_0.0000_7co.txt"
+    }
+  ]
+}
